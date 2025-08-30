@@ -1,0 +1,21 @@
+{
+      "a4a58c7c-0455-4ff9-9afb-398573d33b91": {
+      "text": "[\n  {\n    \"statement\": \"High cholesterol increases the risk of cardiovascular diseases.\",\n    \"advice\": \"Proper diet and exercise can help.\"\n  }\n]",
+      "metadata": {
+        "charset" : "UTF-8",
+        "filename" : "cholesterol-guide.txt",
+        "source" : "models.json"
+      },
+      "embedding": [0.1234, 0.2345, 0.3456, 0.4567, 0.5678]
+    },
+      "446ef74c-67a8-4254-9511-ee57c121c7fd" : {
+      "text": "[\n  {\n    \"statement\": \"Type 2 diabetes is a chronic condition that affects how your body processes glucose.\",\n    \"advice\": \"Proper diet and exercise can help.\"\n  }\n]",
+      "id" : "446ef74c-67a8-4254-9511-ee57c121c7fd",
+      "metadata": {
+        "filename": "diabetes-info.txt",
+        "charset" : "UTF-8",
+        "source" : "models.json"
+      },
+      "embedding": [0.2134, 0.3245, 0.1356, 0.2467, 0.3578]
+    }
+}

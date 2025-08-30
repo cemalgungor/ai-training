@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "cholesterol-guide.txt",
+    "text": "High cholesterol is a major risk factor for heart disease. It can be managed by diet, exercise, and medication...",
+    "metadata": {
+      "category": "Cardiology",
+      "language": "en"
+    }
+  },
+  {
+    "filename": "diabetes-info.txt",
+    "text": "Type 2 diabetes is a chronic condition that affects how your body processes blood sugar...",
+    "metadata": {
+      "category": "Endocrinology",
+      "language": "en"
+    }
+  }
+]
